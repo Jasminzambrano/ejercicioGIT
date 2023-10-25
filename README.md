@@ -1,0 +1,2 @@
+# ejercicioGIT
+Proyecto-Tipti-github
